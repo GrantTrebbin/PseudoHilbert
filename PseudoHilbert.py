@@ -257,7 +257,7 @@ class Block:
                                 coordinates
         """
         coordinates = []
-        if (self.x_size % 4 == 0and
+        if (self.x_size % 4 == 0 and
                 self.y_size % 4 == 0):
             half_x_size = self.x_size // 2
             half_y_size = self.y_size // 2
