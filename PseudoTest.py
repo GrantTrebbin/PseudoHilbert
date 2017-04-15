@@ -1,6 +1,6 @@
 import PseudoHilbert
-import time
-import cProfile
+#import time
+#import cProfile
 import svgwrite
 
 
