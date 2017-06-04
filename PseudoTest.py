@@ -17,8 +17,8 @@ class Diagram:
                                    size=(width, height),
                                    fill='rgb(255,255,255)'))
 
-rectangle_width = 125
-rectangle_height = 88
+rectangle_width = 23
+rectangle_height = 17
 
 diagram = Diagram(rectangle_width, rectangle_height)
 
